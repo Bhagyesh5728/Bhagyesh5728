@@ -1,3 +1,4 @@
+![logo](https://github.com/Bhagyesh5728/Bhagyesh5728/blob/main/github-banner.png)
 <h1 align="center">Hi 👋, I'm Bhagyesh Morvadiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
