@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Bhagyesh Morvadiya</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 👨‍💻 All of my projects are available at [bhagyeshmorvadiya.blogspot.com](bhagyeshmorvadiya.blogspot.com)
+- 👨‍💻 All of my projects are available at [bhagyeshmorvadiya.blogspot.com](https://bhagyeshmorvadiya.blogspot.com/)
 
-- 📝 I regularly write articles on [bhagyeshmorvadiya.blogspot.com](bhagyeshmorvadiya.blogspot.com)
+- 📝 I regularly write articles on [bhagyeshmorvadiya.blogspot.com](https://bhagyeshmorvadiya.blogspot.com)
 
 - 📫 How to reach me **bhagyeshmorvadiya213@gmail.com**
 
